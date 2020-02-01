@@ -1,3 +1,6 @@
+#include <mathstronauts_arduino_library.h>
+
+//name pins
 int green=3;
 int yellow = 4;
 int red = 5;
